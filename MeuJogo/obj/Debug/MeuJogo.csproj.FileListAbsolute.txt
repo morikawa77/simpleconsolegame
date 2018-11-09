@@ -1,0 +1,21 @@
+C:\Vs\Fabio\MeuJogo\MeuJogo\bin\Debug\MeuJogo.exe.config
+C:\Vs\Fabio\MeuJogo\MeuJogo\bin\Debug\MeuJogo.exe
+C:\Vs\Fabio\MeuJogo\MeuJogo\bin\Debug\MeuJogo.pdb
+C:\Vs\Fabio\MeuJogo\MeuJogo\obj\Debug\MeuJogo.csprojAssemblyReference.cache
+C:\Vs\Fabio\MeuJogo\MeuJogo\obj\Debug\MeuJogo.csproj.CoreCompileInputs.cache
+C:\Vs\Fabio\MeuJogo\MeuJogo\obj\Debug\MeuJogo.exe
+C:\Vs\Fabio\MeuJogo\MeuJogo\obj\Debug\MeuJogo.pdb
+T:\Cursos Tecnicos\Tecnico em Programação Jogos - Turma 4 - Noite\UC5\POO\MeuJogo\MeuJogo\obj\Debug\MeuJogo.csprojAssemblyReference.cache
+T:\Cursos Tecnicos\Tecnico em Programação Jogos - Turma 4 - Noite\UC5\POO\MeuJogo\MeuJogo\obj\Debug\MeuJogo.csproj.CoreCompileInputs.cache
+T:\Cursos Tecnicos\Tecnico em Programação Jogos - Turma 4 - Noite\UC5\POO\MeuJogo\MeuJogo\obj\Debug\MeuJogo.exe
+T:\Cursos Tecnicos\Tecnico em Programação Jogos - Turma 4 - Noite\UC5\POO\MeuJogo\MeuJogo\obj\Debug\MeuJogo.pdb
+T:\Cursos Tecnicos\Tecnico em Programação Jogos - Turma 4 - Noite\UC5\POO\MeuJogo\MeuJogo\bin\Debug\MeuJogo.exe.config
+T:\Cursos Tecnicos\Tecnico em Programação Jogos - Turma 4 - Noite\UC5\POO\MeuJogo\MeuJogo\bin\Debug\MeuJogo.exe
+T:\Cursos Tecnicos\Tecnico em Programação Jogos - Turma 4 - Noite\UC5\POO\MeuJogo\MeuJogo\bin\Debug\MeuJogo.pdb
+C:\Users\julio.csgfilho\Desktop\Nova pasta\MeuJogo2\MeuJogo\bin\Debug\MeuJogo.exe.config
+C:\Users\julio.csgfilho\Desktop\Nova pasta\MeuJogo2\MeuJogo\bin\Debug\MeuJogo.exe
+C:\Users\julio.csgfilho\Desktop\Nova pasta\MeuJogo2\MeuJogo\bin\Debug\MeuJogo.pdb
+C:\Users\julio.csgfilho\Desktop\Nova pasta\MeuJogo2\MeuJogo\obj\Debug\MeuJogo.csprojAssemblyReference.cache
+C:\Users\julio.csgfilho\Desktop\Nova pasta\MeuJogo2\MeuJogo\obj\Debug\MeuJogo.csproj.CoreCompileInputs.cache
+C:\Users\julio.csgfilho\Desktop\Nova pasta\MeuJogo2\MeuJogo\obj\Debug\MeuJogo.exe
+C:\Users\julio.csgfilho\Desktop\Nova pasta\MeuJogo2\MeuJogo\obj\Debug\MeuJogo.pdb
